@@ -32,7 +32,6 @@ $apps = @(
 
 Write-Host "WARNING: I do NOT take responsibility for what may happen to your system!" -ForegroundColor Red;
 Write-Host "Review the script for the applications to be removed and update accordingly." -ForegroundColor Red;
-Write-Host "The applications may be re-installed later via the Microsoft Store." -ForegroundColor Red;
 
 $choices  = '&Yes', '&No'
 $decision = $Host.UI.PromptForChoice("Run scripts at your own risk!",
