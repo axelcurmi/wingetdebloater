@@ -26,8 +26,10 @@ $apps = @(
     "Windows Voice Recorder",
     "Your Phone",
     "Films & TV",
+    "OneDrive",
     "Microsoft OneDrive",
-    "Mail and Calendar"
+    "Mail and Calendar",
+    "Spotify Music"
 );
 
 Write-Host "WARNING: I do NOT take responsibility for what may happen to your system!" -ForegroundColor Red;

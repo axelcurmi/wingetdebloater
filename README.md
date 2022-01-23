@@ -33,5 +33,7 @@ Review the script for the applications to be removed and update accordingly.
 - Windows Voice Recorder
 - Your Phone
 - Films & TV
+- OneDrive
 - Microsoft OneDrive
 - Mail and Calendar
+- Spotify Music
